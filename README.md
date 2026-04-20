@@ -1,8 +1,8 @@
-#CompTIA A+ Core 1 (220-1201) Flashcard Study App
+CompTIA A+ Core 1 (220-1201) Flashcard Study App
 
 A browser-based flashcard app designed for studying the CompTIA A+ Core 1 certification exam. 161 cards covering all 6 exam domains: Mobile Devices, Networking, Hardware, Printers & Peripherals, Cloud & Virtualization, and Troubleshooting.
 
-##How to use:
+How to use:
 
 -Tap a card to reveal the answer
 
